@@ -1,0 +1,27 @@
+.footer-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #2C2B2B;
+  height: 30vh;
+}
+
+.footer-section p {
+  color: #6B6C6C;
+  text-align: center;
+}
+
+/* .footer-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+} */
+
+.social-icons {
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 35px;
+  padding: 0 100px;
+}
